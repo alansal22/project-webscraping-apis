@@ -1,5 +1,3 @@
-<img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
-
 # Ironhack starter kit recommendator
 
 This project aims to provide a solution to the acquisition of material to attend a remote bootcamp in Ironhack, including both new and refurbished products whose market is booming.
